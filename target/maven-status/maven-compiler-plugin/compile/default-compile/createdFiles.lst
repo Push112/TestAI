@@ -1,0 +1,4 @@
+com/example/selenium/base/BaseTest.class
+com/example/selenium/pages/LoginPage.class
+com/example/selenium/base/BasePage.class
+com/example/selenium/pages/HomePage.class
